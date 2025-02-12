@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### 수상 경력
+
+- 2024 경북대학교 산학협력프로젝트 경진대회 대상 수상
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicitis&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align=center>
